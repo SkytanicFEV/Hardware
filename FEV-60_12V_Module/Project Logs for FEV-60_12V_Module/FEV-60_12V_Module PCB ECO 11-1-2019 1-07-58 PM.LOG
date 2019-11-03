@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Sense- Pin=D1-A
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-K
+Added Pin To Net: NetName=VBatt Pin=J1-1
+Added Room: Name=FEV-60_12V_Module
