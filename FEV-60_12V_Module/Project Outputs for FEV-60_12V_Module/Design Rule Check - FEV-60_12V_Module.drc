@@ -1,15 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\JasonS\Documents\Altium\Projects\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
 Date     : 11/4/2019
-Time     : 2:33:56 PM
+Time     : 7:06:32 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
-   Violation between Clearance Constraint: (Collision < 5mil) Between Pad U1-EPAD(3916.22mil,2509.567mil) on Top Layer And Via (3916.22mil,2509.567mil) from Top Layer to Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad U1-EPAD(3916.22mil,2509.567mil) on Top Layer And Via (3916.22mil,2509.567mil) from Top Layer to Bottom Layer Location : [X = 3916.22mil][Y = 2509.567mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -33,8 +31,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=3.5mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (3.236mil < 3.5mil) Between Pad U1-7(3805mil,2496.772mil) on Top Layer And Via (3755mil,2490mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.236mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=3.5mil) (IsPad),(All)
 Rule Violations :0
@@ -43,13 +40,12 @@ Processing Rule : Silk to Silk (Clearance=3.5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (3916.22mil,2509.567mil) from Top Layer to Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
