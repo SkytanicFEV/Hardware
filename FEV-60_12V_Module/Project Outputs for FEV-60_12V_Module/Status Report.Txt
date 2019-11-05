@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FEV-60_12V_Module.PrjPcb]
+   Generated File[FEV-60_12V_Module.RUL]
+   Generated File[FEV-60_12V_Module.EXTREP]
+   Generated File[FEV-60_12V_Module.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:59:25 AM On 11/5/2019
