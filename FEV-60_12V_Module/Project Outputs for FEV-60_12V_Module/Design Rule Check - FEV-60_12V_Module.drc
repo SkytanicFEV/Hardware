@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\JasonS\Documents\Altium\Projects\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
+PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
 Date     : 11/5/2019
-Time     : 10:13:59 AM
+Time     : 12:05:28 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=110mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)

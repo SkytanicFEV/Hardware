@@ -1,11 +1,22 @@
 *************************************************************
-FileName = FEV-60_12V_Module.GBR
+FileName = FEV-60_Motor_uC.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : FEV-60_12V_Module.GKO
+Generating : Mechanical 5
+      File : FEV-60_Motor_uC.GM5
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : FEV-60_Motor_uC.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -13,7 +24,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Solder
-      File : FEV-60_12V_Module.GTS
+      File : FEV-60_Motor_uC.GTS
 
     Adding Layer      : Top Solder
 
@@ -23,8 +34,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D13
-    D14
     D15
     D16
     D17
@@ -41,35 +50,11 @@ Used DCodes :
     D28
     D29
     D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : FEV-60_12V_Module.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : FEV-60_12V_Module.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : FEV-60_12V_Module.GBS
+      File : FEV-60_Motor_uC.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -79,30 +64,31 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D24
-    D25
     D26
     D27
     D28
     D29
     D30
-    D31
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 5
-      File : FEV-60_12V_Module.GM5
+Generating : Top Overlay
+      File : FEV-60_Motor_uC.GTO
 
-    Adding Layer      : Mechanical 5
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
     D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
 Generating : Bottom Layer
-      File : FEV-60_12V_Module.GBL
+      File : FEV-60_Motor_uC.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -110,21 +96,30 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D45
-    D46
+    D10
+    D14
+    D42
+    D43
     D47
     D48
     D49
     D50
     D51
-    D52
-    D53
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : FEV-60_Motor_uC.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
 Generating : Top Layer
-      File : FEV-60_12V_Module.GTL
+      File : FEV-60_Motor_uC.GTL
 
     Adding Layer      : Top Layer
 
@@ -132,7 +127,9 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
+    D10
+    D14
+    D31
     D32
     D33
     D34
@@ -153,6 +150,5 @@ Used DCodes :
     D49
     D50
     D51
-    D52
 *************************************************************
 

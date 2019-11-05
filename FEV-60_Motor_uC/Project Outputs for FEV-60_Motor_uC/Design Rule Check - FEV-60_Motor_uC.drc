@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\altium\SeniorDesign\Hardware\FEV-60_Motor_uC\FEV-60_Motor_uC.PcbDoc
-Date     : 11/4/2019
-Time     : 8:55:44 PM
+PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_Motor_uC\FEV-60_Motor_uC.PcbDoc
+Date     : 11/5/2019
+Time     : 11:35:32 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
