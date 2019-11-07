@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VIN Pin=C1-2
+Removed Pin From Net: NetName=VIN Pin=U1-3
+Change Component Designator: OldDesignator=L1 NewDesignator=R?BEAD
+Added Component: Designator=D1(STPS2L30A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "EAR99/NEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "BAT60JFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "BAT60JFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Provided"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R7-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=+3V3
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=FEV-60_Motor_uC Member=Component D1 STPS2L30A

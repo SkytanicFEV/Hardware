@@ -1,0 +1,341 @@
+Matching IBIS pin : 60 with model : vpp_test_hv_3p3_tp_in.mac.
+WARNING: IBIS pin : 60 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 7 with model : ioreset_tc_v33_pu_lv_tp_out.mac.
+WARNING: IBIS pin : 7 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 7 with model : ioreset_tc_v33_pu_lv_tp_in.mac.
+WARNING: IBIS pin : 7 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 2 with model : io8p01_sudq_tc_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 2 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 3 with model : io8p01_sudq_tc_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 3 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 4 with model : io8p01_sudq_tc_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 4 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 2 with model : io8p01_sudq_tc_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 2 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 3 with model : io8p01_sudq_tc_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 3 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 4 with model : io8p01_sudq_tc_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 4 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 29 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 29 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 30 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 30 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 47 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 47 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 48 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 48 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 58 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 58 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 59 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 59 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 61 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 61 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 62 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 62 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 29 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 29 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 30 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 30 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 47 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 47 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 48 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 48 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 58 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 58 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 59 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 59 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 61 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 61 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 62 with model : io8p01_sudq_i2cin_lv_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 62 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 5 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 5 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 6 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 6 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 8 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 8 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 9 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 9 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 10 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 10 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 11 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 11 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 14 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 14 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 15 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 15 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 16 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 16 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 17 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 17 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 18 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 18 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 19 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 19 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 20 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 20 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 21 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 21 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 22 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 22 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 23 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 23 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 24 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 24 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 25 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 25 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 26 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 26 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 27 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 27 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 28 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 28 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 33 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 33 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 34 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 34 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 35 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 35 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 36 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 36 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 37 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 37 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 38 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 38 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 39 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 39 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 40 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 40 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 41 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 41 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 42 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 42 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 43 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 43 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 44 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 44 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 45 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 45 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 46 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 46 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 49 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 49 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 50 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 50 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 51 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 51 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 52 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 52 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 53 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 53 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 54 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 54 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 55 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 55 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 56 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 56 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 57 with model : io8p01_sudq_ft_pd_lv_tp_out.mac.
+WARNING: IBIS pin : 57 has an IO model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 5 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 5 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 6 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 6 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 8 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 8 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 9 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 9 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 10 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 10 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 11 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 11 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 14 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 14 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 15 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 15 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 16 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 16 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 17 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 17 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 18 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 18 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 19 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 19 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 20 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 20 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 21 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 21 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 22 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 22 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 23 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 23 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 24 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 24 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 25 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 25 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 26 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 26 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 27 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 27 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 28 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 28 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 33 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 33 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 34 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 34 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 35 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 35 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 36 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 36 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 37 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 37 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 38 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 38 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 39 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 39 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 40 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 40 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 41 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 41 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 42 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 42 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 43 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 43 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 44 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 44 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 45 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 45 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 46 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 46 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 49 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 49 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 50 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 50 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 51 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 51 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 52 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 52 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 53 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 53 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 54 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 54 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 55 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 55 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 56 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 56 has an input model and is being assigned to a Passive pin.
+
+Matching IBIS pin : 57 with model : io8p01_sudq_ft_pd_lv_tp_in.mac.
+WARNING: IBIS pin : 57 has an input model and is being assigned to a Passive pin.
+
+
+Any unmatched IBIS pins should have their model/technology set manually.

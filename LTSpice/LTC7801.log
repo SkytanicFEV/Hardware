@@ -1,4 +1,4 @@
-Circuit: * C:\Users\ryanz\Documents\4th Year Documents\LTC7801.asc
+Circuit: * C:\Users\ryanz\Senior Design\Hardware\LTSpice\LTC7801.asc
 
 Direct Newton iteration for .op point succeeded.
 Ignoring empty pin current: Ix(u1:9)
@@ -23,24 +23,23 @@ Ignoring empty pin current: Ix(u1:29)
 Ignoring empty pin current: Ix(u1:31)
 Ignoring empty pin current: Ix(u1:33)
 Ignoring empty pin current: Ix(u1:35)
-Heightened Def Con from 9.41273e-006 to 9.41673e-006
-Heightened Def Con from 1.39632e-005 to 1.39632e-005
+Heightened Def Con from 3.6559e-005 to 3.6561e-005
 
-Date: Tue Oct 08 11:56:28 2019
-Total elapsed time: 31.188 seconds.
+Date: Wed Nov 06 11:46:48 2019
+Total elapsed time: 87.027 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 607582
-traniter = 607563
-tranpoints = 154716
-accept = 111678
-rejected = 43040
-matrix size = 157
-fillins = 28
+totiter = 1056618
+traniter = 1056611
+tranpoints = 288875
+accept = 206058
+rejected = 82818
+matrix size = 151
+fillins = 23
 solver = Normal
-Thread vector: 39.3/16.9[4] 17.5/8.1[4] 4.3/5.4[1] 0.9/6.4[1]  2592/500
-Matrix Compiler1: 6.50 KB object code size  3.9/2.4/[1.2]
-Matrix Compiler2: 10.26 KB object code size  2.5/4.5/[1.2]
+Thread vector: 38.4/23.7[4] 21.0/13.3[4] 5.0/45.8[1] 0.9/8.8[1]  2592/500
+Matrix Compiler1: 5.82 KB object code size  4.2/3.0/[1.0]
+Matrix Compiler2: 9.53 KB object code size  3.3/4.8/[1.5]
 

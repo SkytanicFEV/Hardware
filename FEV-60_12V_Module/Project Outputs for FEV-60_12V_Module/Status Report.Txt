@@ -1,12 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [FEV-60_12V_Module.PrjPcb]
-   Generated File[FEV-60_12V_Module.RUL]
-   Generated File[FEV-60_12V_Module.EXTREP]
-   Generated File[FEV-60_12V_Module.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEV-60_12V_Module.PrjPcb]
+   Generated File[FEV-60_12V_Module.TXT]
+   Generated File[FEV-60_12V_Module.LDP]
+   Generated File[FEV-60_12V_Module.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:59:25 AM On 11/5/2019
+Finished Output Generation At 12:06:37 PM On 11/5/2019
