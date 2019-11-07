@@ -1,0 +1,14 @@
+Comment,Description,Designator,Quantity
+
+"TD-0341 [RESET/Black]","SE PUSHBUTTON","B1","1"
+"USER (Blue)","SE PUSHBUTTON","B2","1"
+"Cap Semi","Capacitor (Semiconductor SIM Model)","C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12","12"
+"Header 19X2","Header, 19-Pin, Dual row","CN1, CN2","2"
+"Header 6X1","Header, 6-Pin, Single row","CN3","1"
+"Header 2","Header, 2-Pin","CN4, CN5","2"
+"Header 3","Header, 3-Pin","CN6","1"
+"STPS2L30A","STPS2L30A","D1","1"
+"HSMS-C190","LED Uni-Color Red, 52 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel","LD1, LD2","2"
+"Res3","Resistor","R?BEAD, R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11","12"
+"LD1117S33TR","","U1","1"
+"MCU_LQFP64","","U2","1"

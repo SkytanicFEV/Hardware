@@ -1,0 +1,35 @@
+Added Component: Designator=U1(LTC7801)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LTC7801EFE#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Sense- Pin=U1-1
+Added Pin To Net: NetName=NetC4_2 Pin=U1-2
+Added Pin To Net: NetName=VFB Pin=U1-3
+Added Pin To Net: NetName=NetC6_2 Pin=U1-4
+Added Pin To Net: NetName=NetR6_2 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetC2_2 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetR2_1 Pin=U1-9
+Added Pin To Net: NetName=NetR4_2 Pin=U1-10
+Added Pin To Net: NetName=NetR3_2 Pin=U1-11
+Added Pin To Net: NetName=NetR5_2 Pin=U1-12
+Added Pin To Net: NetName=TG Pin=U1-13
+Added Pin To Net: NetName=SW Pin=U1-14
+Added Pin To Net: NetName=BOOST Pin=U1-15
+Added Pin To Net: NetName=BG Pin=U1-16
+Added Pin To Net: NetName=NetC3_2 Pin=U1-17
+Added Pin To Net: NetName=NetR1_2 Pin=U1-18
+Added Pin To Net: NetName=VBatt Pin=U1-19
+Added Pin To Net: NetName=Sense- Pin=U1-20
+Added Pin To Net: NetName=VBatt Pin=U1-21
+Added Pin To Net: NetName=NetC2_2 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=Sense+ Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Member To Class: ClassName=FEV-60_12V_Module Member=Component U1 LTC7801EFE
+Added Room: Name=FEV-60_12V_Module
