@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\JasonS\Documents\Altium\Projects\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
-Date     : 11/5/2019
-Time     : 10:13:59 AM
+Date     : 11/6/2019
+Time     : 10:42:13 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=5mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=8mil) (Max=100mil) (All)
