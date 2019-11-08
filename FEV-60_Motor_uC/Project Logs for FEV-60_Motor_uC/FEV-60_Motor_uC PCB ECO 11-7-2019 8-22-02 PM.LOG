@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PB6 Pin=CN2-17
+Added Member To Class: ClassName=FEV-60_Motor_uC Member=Component C10 Cap Semi
+Added Member To Class: ClassName=FEV-60_Motor_uC Member=Component U2 MCU_LQFP64

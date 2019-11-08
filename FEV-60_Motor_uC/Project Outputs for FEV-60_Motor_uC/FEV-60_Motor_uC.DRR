@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FEV-60_Motor_uC.PcbDoc   11/5/2019  11:36:16 AM
+NCDrill File Report For: FEV-60_Motor_uC.PcbDoc   11/7/2019  9:43:51 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : FEV-60_Motor_uC.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             121       PTH        0.00inch (0.00mm)
-T2      28mil (0.711mm)                                           Round             12        PTH        0.00inch (0.00mm)
-T3      35mil (0.9mm)                                             Round             89        PTH        0.00inch (0.00mm)
+T1      10mil (0.254mm)                                           Round             118       PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             13        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             86        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              222
+Totals                                                                              217
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
