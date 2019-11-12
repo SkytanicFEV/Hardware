@@ -1,4 +1,4 @@
-* C:\Users\ryanz\Senior Design\Hardware\LTSpice\LTC7801.asc
+* D:\altium\SeniorDesign\Hardware\LTSpice\LTC7801.asc
 M§Q1 IN N002 N004 N004 BSC082N10LS
 L1 N004 N005 22µ Rser=27m
 C1 OUT 0 150µ x3 Rser=0.1
@@ -20,7 +20,7 @@ XU1 0 MP_01 N005 OUT N011 N009 N012 0 MP_02 N001 MP_03 MP_04 0 N006 MP_05 MP_06 
 C8 IN 0 100µf
 .model NMOS NMOS
 .model PMOS PMOS
-.lib C:\Users\ryanz\Documents\LTspiceXVII\lib\cmp\standard.mos
+.lib D:\Documents\LTspiceXVII\lib\cmp\standard.mos
 .tran 1.2m startup
 .lib LTC7801.sub
 .backanno
