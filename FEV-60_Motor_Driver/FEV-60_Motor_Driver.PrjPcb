@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=FEV-60_Motor_Driver_OnePhase.SchDoc
+DocumentPath=FEV-60_Motor_Driver_Phase1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,13 +106,13 @@ GenerateClassCluster=0
 DocumentUniqueId=GTKWUDVI
 
 [Document5]
-DocumentPath=FEV-60_Motor_Driver_OnePhase.PcbDoc
+DocumentPath=Sensing_Phase1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OPNUJSTI
+DocumentUniqueId=ILMQVFWG
 
 [Configuration1]
 Name=Sources
@@ -241,7 +241,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\ecee-print\src-mfd
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1098,7 +1098,7 @@ GlobalIndexSortLocation=0
 CompClassManualEnabled=0
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
-NetClassAutoCompEnabled=0
+NetClassAutoCompEnabled=1
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
