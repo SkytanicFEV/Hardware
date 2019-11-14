@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetF_VS1_3 Pin=F_VS2-3
+Removed Pin From Net: NetName=NetF_VS1_3 Pin=F_VS2-4
+Removed Pin From Net: NetName=NetF_VS1_3 Pin=F_VS3-3
+Removed Pin From Net: NetName=NetF_VS1_3 Pin=F_VS3-4
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q3-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q3-2
+Change Component Footprint: Designator=C6 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
+Change Component Footprint: Designator=C9 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
+Added Pin To Net: NetName=HO_V Pin=Q2-7
+Added Pin To Net: NetName=HO_V Pin=R_HO2-1
+Added Net: Name=HO_V
+Added Pin To Net: NetName=HO_W Pin=Q3-7
+Added Pin To Net: NetName=HO_W Pin=R_HO3-1
+Added Net: Name=HO_W
+Added Pin To Net: NetName=LO_V Pin=Q2-4
+Added Pin To Net: NetName=LO_V Pin=R_LO2-1
+Added Net: Name=LO_V
+Added Pin To Net: NetName=LO_W Pin=Q3-4
+Added Pin To Net: NetName=LO_W Pin=R_LO3-1
+Added Net: Name=LO_W
+Added Pin To Net: NetName=NetF_VS2_3 Pin=F_VS2-3
+Added Pin To Net: NetName=NetF_VS2_3 Pin=F_VS2-4
+Added Net: Name=NetF_VS2_3
+Added Pin To Net: NetName=NetF_VS3_3 Pin=F_VS3-3
+Added Pin To Net: NetName=NetF_VS3_3 Pin=F_VS3-4
+Added Net: Name=NetF_VS3_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Net: Name=NetQ3_2

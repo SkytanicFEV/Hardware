@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetD_BOOT_1 Pin=D_BOOT-1
+Removed Pin From Net: NetName=NetD_BOOT_1 Pin=D_BOOT-2
+Removed Pin From Net: NetName=VB Pin=D_BOOT-3
+Change Component Designator: OldDesignator=C10 NewDesignator=C1
+Change Component Designator: OldDesignator=C11 NewDesignator=C2
+Change Component Designator: OldDesignator=C12 NewDesignator=C3
+Change Component Designator: OldDesignator=Q11 NewDesignator=Q_HO
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q_LO
+Added Component: Designator=D_BOOT(SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD_BOOT_1 Pin=D_BOOT-1
+Added Pin To Net: NetName=VB Pin=D_BOOT-2
+Added Room: Name=FEV-60_Motor_Driver_OnePhase

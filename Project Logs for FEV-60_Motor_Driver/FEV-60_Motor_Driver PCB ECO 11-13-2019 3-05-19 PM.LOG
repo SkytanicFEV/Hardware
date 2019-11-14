@@ -1,0 +1,672 @@
+Added Component: Designator=C1(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(TDK-C5750-2_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "CSERIES_2220_2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/24216/c5750x7s2a106m230kb-265716-24216594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Compact,High-CapacitanceMultilayerCeramicChipCapacitorsMidVoltageX7S-100VMLCCsC-SeriesMidVoltageMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "445-9009-KIT-ND-KITCAPCERHICAP100V-630VSMDSAMPLEKIT1008-ND-KITCAPCERMLCC100V-630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "CSeries,MidVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "445-5212-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2220(5750Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "SMD, 2-Leads, Body 6.1 x 5.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C5750-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Part Number"; Value = "MLCCPartNumberChange30/Nov/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "SEAT,CCV,andTVCLDesignToolsCSeriesMidVoltageCapacitorsFamilyGuidetoReplacinganElectrolyticCapacitorwithanMLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertificate-MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224"Lx0.197"W(5.70mmx5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.098"(2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C_BOOT1(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C_BOOT2(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C_BOOT3(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D_BOOT1(SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D_BOOT2(SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D_BOOT3(SMB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=F_VS1(KSTN-3568_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=F_VS2(KSTN-3568_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=F_VS3(KSTN-3568_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOIC8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/FAN7191_F085-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FAN7191-F085"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOIC8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/FAN7191_F085-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FAN7191-F085"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOIC8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/FAN7191_F085-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FAN7191-F085"; VariantName = "[No Variations]"
+Added Component: Designator=Q_HO1(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q_HO2(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q_HO3(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q_LO1(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q_LO2(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q_LO3(TPH2900ENH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TPH2900ENH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/toshiba-semiconductor-and-storage/TPH2900ENHL1Q/TPH2900ENHL1QCT-ND/5456291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPH2900ENHL1QCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R_BOOT1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_BOOT2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_BOOT3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_HO1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_HO2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_HO3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_LO1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_LO2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=R_LO3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+12 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+120 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+120 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+12 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+12 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+120 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+120 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+12 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+12 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+120 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+120 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=+12 Pin=Q1-5
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=+12 Pin=Q2-5
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=+12 Pin=Q3-5
+Added Pin To Net: NetName=+120 Pin=Q_HO1-1
+Added Pin To Net: NetName=+120 Pin=Q_HO1-1
+Added Pin To Net: NetName=+120 Pin=Q_HO1-1
+Added Pin To Net: NetName=+120 Pin=Q_HO1-1
+Added Pin To Net: NetName=+120 Pin=Q_HO1-1
+Added Pin To Net: NetName=+120 Pin=Q_HO2-1
+Added Pin To Net: NetName=+120 Pin=Q_HO2-1
+Added Pin To Net: NetName=+120 Pin=Q_HO2-1
+Added Pin To Net: NetName=+120 Pin=Q_HO2-1
+Added Pin To Net: NetName=+120 Pin=Q_HO2-1
+Added Pin To Net: NetName=+120 Pin=Q_HO3-1
+Added Pin To Net: NetName=+120 Pin=Q_HO3-1
+Added Pin To Net: NetName=+120 Pin=Q_HO3-1
+Added Pin To Net: NetName=+120 Pin=Q_HO3-1
+Added Pin To Net: NetName=+120 Pin=Q_HO3-1
+Added Pin To Net: NetName=GND Pin=Q_LO1-3
+Added Pin To Net: NetName=GND Pin=Q_LO1-3
+Added Pin To Net: NetName=GND Pin=Q_LO1-3
+Added Pin To Net: NetName=GND Pin=Q_LO2-3
+Added Pin To Net: NetName=GND Pin=Q_LO2-3
+Added Pin To Net: NetName=GND Pin=Q_LO2-3
+Added Pin To Net: NetName=GND Pin=Q_LO3-3
+Added Pin To Net: NetName=GND Pin=Q_LO3-3
+Added Pin To Net: NetName=GND Pin=Q_LO3-3
+Added Pin To Net: NetName=+12 Pin=R_BOOT1-1
+Added Pin To Net: NetName=+12 Pin=R_BOOT2-1
+Added Pin To Net: NetName=+12 Pin=R_BOOT3-1
+Added Pin To Net: NetName=HO_U Pin=Q1-7
+Added Pin To Net: NetName=HO_U Pin=R_HO1-1
+Added Net: Name=HO_U
+Added Pin To Net: NetName=HO_V Pin=Q2-7
+Added Pin To Net: NetName=HO_V Pin=R_HO2-1
+Added Net: Name=HO_V
+Added Pin To Net: NetName=HO_W Pin=Q3-7
+Added Pin To Net: NetName=HO_W Pin=R_HO3-1
+Added Net: Name=HO_W
+Added Pin To Net: NetName=LO_U Pin=Q1-4
+Added Pin To Net: NetName=LO_U Pin=R_LO1-1
+Added Net: Name=LO_U
+Added Pin To Net: NetName=LO_V Pin=Q2-4
+Added Pin To Net: NetName=LO_V Pin=R_LO2-1
+Added Net: Name=LO_V
+Added Pin To Net: NetName=LO_W Pin=Q3-4
+Added Pin To Net: NetName=LO_W Pin=R_LO3-1
+Added Net: Name=LO_W
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=C_BOOT1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=F_VS1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=F_VS1-2
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q1-6
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_HO1-3
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_HO1-3
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_HO1-3
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_LO1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_LO1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_LO1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_LO1-1
+Added Pin To Net: NetName=NetC_BOOT1_1 Pin=Q_LO1-1
+Added Net: Name=NetC_BOOT1_1
+Added Pin To Net: NetName=NetC_BOOT1_2 Pin=C_BOOT1-2
+Added Pin To Net: NetName=NetC_BOOT1_2 Pin=D_BOOT1-2
+Added Pin To Net: NetName=NetC_BOOT1_2 Pin=Q1-8
+Added Net: Name=NetC_BOOT1_2
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=C_BOOT2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=F_VS2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=F_VS2-2
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q2-6
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_HO2-3
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_HO2-3
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_HO2-3
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_LO2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_LO2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_LO2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_LO2-1
+Added Pin To Net: NetName=NetC_BOOT2_1 Pin=Q_LO2-1
+Added Net: Name=NetC_BOOT2_1
+Added Pin To Net: NetName=NetC_BOOT2_2 Pin=C_BOOT2-2
+Added Pin To Net: NetName=NetC_BOOT2_2 Pin=D_BOOT2-2
+Added Pin To Net: NetName=NetC_BOOT2_2 Pin=Q2-8
+Added Net: Name=NetC_BOOT2_2
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=C_BOOT3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=F_VS3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=F_VS3-2
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q3-6
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_HO3-3
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_HO3-3
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_HO3-3
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_LO3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_LO3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_LO3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_LO3-1
+Added Pin To Net: NetName=NetC_BOOT3_1 Pin=Q_LO3-1
+Added Net: Name=NetC_BOOT3_1
+Added Pin To Net: NetName=NetC_BOOT3_2 Pin=C_BOOT3-2
+Added Pin To Net: NetName=NetC_BOOT3_2 Pin=D_BOOT3-2
+Added Pin To Net: NetName=NetC_BOOT3_2 Pin=Q3-8
+Added Net: Name=NetC_BOOT3_2
+Added Pin To Net: NetName=NetD_BOOT1_1 Pin=D_BOOT1-1
+Added Pin To Net: NetName=NetD_BOOT1_1 Pin=R_BOOT1-2
+Added Net: Name=NetD_BOOT1_1
+Added Pin To Net: NetName=NetD_BOOT2_1 Pin=D_BOOT2-1
+Added Pin To Net: NetName=NetD_BOOT2_1 Pin=R_BOOT2-2
+Added Net: Name=NetD_BOOT2_1
+Added Pin To Net: NetName=NetD_BOOT3_1 Pin=D_BOOT3-1
+Added Pin To Net: NetName=NetD_BOOT3_1 Pin=R_BOOT3-2
+Added Net: Name=NetD_BOOT3_1
+Added Pin To Net: NetName=NetF_VS1_3 Pin=F_VS1-3
+Added Pin To Net: NetName=NetF_VS1_3 Pin=F_VS1-4
+Added Net: Name=NetF_VS1_3
+Added Pin To Net: NetName=NetF_VS2_3 Pin=F_VS2-3
+Added Pin To Net: NetName=NetF_VS2_3 Pin=F_VS2-4
+Added Net: Name=NetF_VS2_3
+Added Pin To Net: NetName=NetF_VS3_3 Pin=F_VS3-3
+Added Pin To Net: NetName=NetF_VS3_3 Pin=F_VS3-4
+Added Net: Name=NetF_VS3_3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ_HO1_2 Pin=Q_HO1-2
+Added Pin To Net: NetName=NetQ_HO1_2 Pin=R_HO1-2
+Added Net: Name=NetQ_HO1_2
+Added Pin To Net: NetName=NetQ_HO2_2 Pin=Q_HO2-2
+Added Pin To Net: NetName=NetQ_HO2_2 Pin=R_HO2-2
+Added Net: Name=NetQ_HO2_2
+Added Pin To Net: NetName=NetQ_HO3_2 Pin=Q_HO3-2
+Added Pin To Net: NetName=NetQ_HO3_2 Pin=R_HO3-2
+Added Net: Name=NetQ_HO3_2
+Added Pin To Net: NetName=NetQ_LO1_2 Pin=Q_LO1-2
+Added Pin To Net: NetName=NetQ_LO1_2 Pin=R_LO1-2
+Added Net: Name=NetQ_LO1_2
+Added Pin To Net: NetName=NetQ_LO2_2 Pin=Q_LO2-2
+Added Pin To Net: NetName=NetQ_LO2_2 Pin=R_LO2-2
+Added Net: Name=NetQ_LO2_2
+Added Pin To Net: NetName=NetQ_LO3_2 Pin=Q_LO3-2
+Added Pin To Net: NetName=NetQ_LO3_2 Pin=R_LO3-2
+Added Net: Name=NetQ_LO3_2
+Added Class: Name=FEV-60_Motor_Driver_Phase1
+Added Class: Name=FEV-60_Motor_Driver_Phase2
+Added Class: Name=FEV-60_Motor_Driver_Phase3
+Added Room: Name=FEV-60_Motor_Driver_Phase1
+Added Room: Name=FEV-60_Motor_Driver_Phase2
+Added Room: Name=FEV-60_Motor_Driver_Phase3
