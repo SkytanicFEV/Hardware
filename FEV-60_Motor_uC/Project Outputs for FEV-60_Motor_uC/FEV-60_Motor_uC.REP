@@ -2,14 +2,13 @@
 FileName = FEV-60_Motor_uC.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 5
-      File : FEV-60_Motor_uC.GM5
+Generating : Keep-Out Layer
+      File : FEV-60_Motor_uC.GKO
 
-    Adding Layer      : Mechanical 5
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D44
 *************************************************************
 
 *************************************************************
@@ -23,10 +22,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : FEV-60_Motor_uC.GTS
+Generating : Top Paste
+      File : FEV-60_Motor_uC.GTP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -46,11 +45,33 @@ Used DCodes :
     D23
     D24
     D25
-    D26
-    D27
-    D28
-    D29
-    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : FEV-60_Motor_uC.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D48
+    D49
+    D50
 *************************************************************
 
 *************************************************************
@@ -68,12 +89,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : FEV-60_Motor_uC.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : FEV-60_Motor_uC.GPB
 
     Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : FEV-60_Motor_uC.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -84,6 +120,18 @@ Used DCodes :
     D28
     D29
     D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
@@ -107,13 +155,47 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : FEV-60_Motor_uC.GKO
+Generating : Mechanical 5
+      File : FEV-60_Motor_uC.GM5
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Mechanical 5
 
 
 Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : FEV-60_Motor_uC.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FEV-60_Motor_uC.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
@@ -127,18 +209,18 @@ Generating : Top Layer
 
 Used DCodes :
     D10
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
     D43
     D44
     D45

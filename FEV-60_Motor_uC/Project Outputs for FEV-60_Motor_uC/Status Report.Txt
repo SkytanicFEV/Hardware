@@ -1,12 +1,24 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [FEV-60_Motor_uC.PrjPcb]
-   Generated File[FEV-60_Motor_uC.TXT]
-   Generated File[FEV-60_Motor_uC.LDP]
-   Generated File[FEV-60_Motor_uC.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FEV-60_Motor_uC.PrjPcb]
+   Generated File[FEV-60_Motor_uC.GTO]
+   Generated File[FEV-60_Motor_uC.GTP]
+   Generated File[FEV-60_Motor_uC.GTS]
+   Generated File[FEV-60_Motor_uC.GTL]
+   Generated File[FEV-60_Motor_uC.GBL]
+   Generated File[FEV-60_Motor_uC.GBS]
+   Generated File[FEV-60_Motor_uC.GBP]
+   Generated File[FEV-60_Motor_uC.GBO]
+   Generated File[FEV-60_Motor_uC.GM5]
+   Generated File[FEV-60_Motor_uC.GKO]
+   Generated File[FEV-60_Motor_uC.GPT]
+   Generated File[FEV-60_Motor_uC.GPB]
+   Generated File[FEV-60_Motor_uC.RUL]
+   Generated File[FEV-60_Motor_uC.EXTREP]
+   Generated File[FEV-60_Motor_uC.REP]
 
 
-Files Generated   : 3
+Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 9:43:52 PM On 11/7/2019
+Finished Output Generation At 9:37:34 AM On 11/19/2019
