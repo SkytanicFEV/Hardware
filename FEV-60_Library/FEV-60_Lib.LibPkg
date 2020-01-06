@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JHCLRKGN
 
 [Document2]
 DocumentPath=FEV-60_SchLib.SchLib
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SAGKLWHG
 
 [OutputGroup1]
 Name=Netlist Outputs

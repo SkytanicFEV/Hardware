@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Q1_P1_Nets Member=NetQ1_P1_2
+Removed Member From Class: ClassName=Q1_P2_Nets Member=NetQ1_P2_2
+Removed Member From Class: ClassName=Q1_P3_Nets Member=NetQ1_P3_2
+Added Pin To Net: NetName=LIN1 Pin=Q1_P1-2
+Added Pin To Net: NetName=LIN2 Pin=Q1_P2-2
+Added Pin To Net: NetName=LIN3 Pin=Q1_P3-2
+Added Member To Class: ClassName=Q1_P1_Nets Member=Element[1]: LIN
+Added Member To Class: ClassName=Q1_P2_Nets Member=Element[2]: LIN
+Added Member To Class: ClassName=Q1_P3_Nets Member=Element[3]: LIN
