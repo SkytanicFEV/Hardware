@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PB3 Pin=CN6-1
+Removed Pin From Net: NetName=PB4 Pin=CN6-2
+Removed Pin From Net: NetName=PA7 Pin=CN6-3
+Removed Member From Class: ClassName=FEV-60_Motor_uC Member=CN6
