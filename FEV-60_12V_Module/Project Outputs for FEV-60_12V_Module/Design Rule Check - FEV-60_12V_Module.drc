@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\JasonS\Documents\Altium\Projects\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
-Date     : 11/8/2019
-Time     : 1:37:18 PM
-
-Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_Pour')),(All)
-Rule Violations :0
+PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
+Date     : 11/12/2019
+Time     : 3:51:14 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_Pour')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
