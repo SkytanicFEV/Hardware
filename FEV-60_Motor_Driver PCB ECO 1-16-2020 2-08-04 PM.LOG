@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=V_SENSE1 Pin=U2-5
+Removed Pin From Net: NetName=V_SENSE2 Pin=U2-6
+Removed Pin From Net: NetName=PB3 Pin=U2-12
+Removed Pin From Net: NetName=USART_RX Pin=U2-19
+Removed Pin From Net: NetName=HIN2 Pin=U2-32
+Removed Pin From Net: NetName=LIN1 Pin=U2-48
+Removed Pin From Net: NetName=HIN1 Pin=U2-64
+Added Component: Designator=D1(STPS2L30A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "EAR99/NEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "BAT60JFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "BAT60JFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Provided"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM32F030R8 - duplicate)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=24V Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=V_SENSE1 Pin=U2-5
+Added Pin To Net: NetName=V_SENSE2 Pin=U2-6
+Added Pin To Net: NetName=AGND Pin=U2-12
+Added Pin To Net: NetName=PB3 Pin=U2-12
+Added Pin To Net: NetName=USART_RX Pin=U2-19
+Added Pin To Net: NetName=HIN2 Pin=U2-32
+Added Pin To Net: NetName=VDD Pin=U2-32
+Added Pin To Net: NetName=LIN1 Pin=U2-48
+Added Pin To Net: NetName=HIN1 Pin=U2-64
+Added Pin To Net: NetName=VDD Pin=U2-64
+Added Member To Class: ClassName=U_FEV-60_Motor_Driver_Mcu Member=Component D1 STPS2L30A
+Added Member To Class: ClassName=U_FEV-60_Motor_Driver_Mcu Member=Component U2 MCU_LQFP64

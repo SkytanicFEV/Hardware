@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetB2_1 Pin=U2-2
+Removed Pin From Net: NetName=V_SENSE1 Pin=U2-14
+Removed Pin From Net: NetName=V_SENSE2 Pin=U2-15
+Removed Pin From Net: NetName=V_SENSE3 Pin=U2-16
+Removed Pin From Net: NetName=HIN2 Pin=U2-23
+Removed Pin From Net: NetName=HIN3 Pin=U2-35
+Removed Pin From Net: NetName=LIN3 Pin=U2-36
+Removed Pin From Net: NetName=LIN2 Pin=U2-37
+Removed Pin From Net: NetName=HIN1 Pin=U2-41
+Removed Pin From Net: NetName=LIN1 Pin=U2-42
+Removed Pin From Net: NetName=USART_RX Pin=U2-43
+Removed Pin From Net: NetName=TMS Pin=U2-46
+Removed Pin From Net: NetName=TCK Pin=U2-49
+Removed Pin From Net: NetName=PB3 Pin=U2-55
+Removed Pin From Net: NetName=USART_TX Pin=U2-58
+Removed Member From Class: ClassName=U2_Nets Member=HALL1
+Removed Member From Class: ClassName=U2_Nets Member=HALL2
+Removed Member From Class: ClassName=U2_Nets Member=HALL3
+Removed Member From Class: ClassName=U2_Nets Member=HIN3
+Removed Member From Class: ClassName=U2_Nets Member=LIN2
+Removed Member From Class: ClassName=U2_Nets Member=LIN3
+Removed Member From Class: ClassName=U2_Nets Member=NetB2_1
+Removed Member From Class: ClassName=U2_Nets Member=TCK
+Removed Member From Class: ClassName=U2_Nets Member=THROTTLE
+Removed Member From Class: ClassName=U2_Nets Member=TMS
+Removed Member From Class: ClassName=U2_Nets Member=USART_TX
+Removed Member From Class: ClassName=U2_Nets Member=V_SENSE3
+Added Pin To Net: NetName=V_SENSE1 Pin=U2-5
+Added Pin To Net: NetName=V_SENSE2 Pin=U2-6
+Added Pin To Net: NetName=PB3 Pin=U2-12
+Added Pin To Net: NetName=USART_RX Pin=U2-19
+Added Pin To Net: NetName=HIN2 Pin=U2-32
+Added Pin To Net: NetName=LIN1 Pin=U2-48
+Added Pin To Net: NetName=HIN1 Pin=U2-64
+Added Class: Name=D1_Nets
+Added Member To Class: ClassName=U_FEV-60_Motor_Driver_Mcu Member=Component U2 MCU_LQFP64
