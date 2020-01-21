@@ -5,6 +5,7 @@ From  : Variant [[No Variations]] of Project [FEV-60_IO_Board.PrjPcb]
    Generated File[FEV-60_IO_Board.GTS]
    Generated File[FEV-60_IO_Board.GTL]
    Generated File[FEV-60_IO_Board.GBL]
+   Generated File[FEV-60_IO_Board.GBS]
    Generated File[FEV-60_IO_Board.GBO]
    Generated File[FEV-60_IO_Board.GM1]
    Generated File[FEV-60_IO_Board.RUL]
@@ -12,7 +13,7 @@ From  : Variant [[No Variations]] of Project [FEV-60_IO_Board.PrjPcb]
    Generated File[FEV-60_IO_Board.REP]
 
 
-Files Generated   : 9
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 9:36:55 AM On 1/21/2020
+Finished Output Generation At 11:09:03 AM On 1/21/2020
