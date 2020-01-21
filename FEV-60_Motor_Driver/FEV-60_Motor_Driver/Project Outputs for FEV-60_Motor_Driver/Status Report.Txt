@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FEV-60_Motor_Driver.PrjPcb]
+   Generated File[FEV-60_Motor_Driver.GTO]
+   Generated File[FEV-60_Motor_Driver.GTS]
+   Generated File[FEV-60_Motor_Driver.GTL]
+   Generated File[FEV-60_Motor_Driver.GBL]
+   Generated File[FEV-60_Motor_Driver.GBS]
+   Generated File[FEV-60_Motor_Driver.GBO]
+   Generated File[FEV-60_Motor_Driver.GM1]
+   Generated File[FEV-60_Motor_Driver.GKO]
+   Generated File[FEV-60_Motor_Driver.RUL]
+   Generated File[FEV-60_Motor_Driver.EXTREP]
+   Generated File[FEV-60_Motor_Driver.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 10:44:31 AM On 1/21/2020
