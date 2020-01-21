@@ -182,10 +182,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for FEV-60_12V_Module\FEV-60_12V_Module.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for FEV-60\FEV-60 BOM Test.xls
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Rev
 Value=A0
@@ -348,7 +344,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-2280DW Printer (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

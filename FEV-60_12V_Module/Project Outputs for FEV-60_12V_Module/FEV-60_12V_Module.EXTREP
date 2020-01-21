@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: FEV-60_12V_Module.GBR   11/22/2019  1:53:10 PM
+Gerber File Extension Report For: FEV-60_12V_Module.GBR   1/20/2020  12:33:08 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,7 +7,6 @@ Gerber File Extension Report For: FEV-60_12V_Module.GBR   11/22/2019  1:53:10 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
-.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            

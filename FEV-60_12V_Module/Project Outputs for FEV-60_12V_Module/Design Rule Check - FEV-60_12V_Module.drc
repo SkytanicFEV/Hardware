@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
-Date     : 11/12/2019
-Time     : 3:51:14 PM
+PCB File : C:\Users\JasonS\Documents\Altium\Projects\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
+Date     : 1/20/2020
+Time     : 12:11:21 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -27,7 +27,7 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=8mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=8mil) (Max=160mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
@@ -43,12 +43,14 @@ Processing Rule : Silk to Silk (Clearance=3.5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
+   Violation between Net Antennae: Via (4690mil,1750mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (5265mil,1940mil) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
