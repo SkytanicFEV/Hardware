@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FEV-60_IO_Board.PrjPcb]
+   Generated File[FEV-60_IO_Board.GTO]
+   Generated File[FEV-60_IO_Board.GTS]
+   Generated File[FEV-60_IO_Board.GTL]
+   Generated File[FEV-60_IO_Board.GBL]
+   Generated File[FEV-60_IO_Board.GBO]
+   Generated File[FEV-60_IO_Board.GM1]
+   Generated File[FEV-60_IO_Board.RUL]
+   Generated File[FEV-60_IO_Board.EXTREP]
+   Generated File[FEV-60_IO_Board.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 9:36:55 AM On 1/21/2020
