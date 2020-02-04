@@ -2,6 +2,30 @@
 FileName = FEV-60_12V_Module.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Solder
+      File : FEV-60_12V_Module.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : FEV-60_12V_Module.GKO
 
@@ -9,6 +33,31 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : FEV-60_12V_Module.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D56
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -47,75 +96,9 @@ Used DCodes :
     D34
     D35
     D36
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : FEV-60_12V_Module.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FEV-60_12V_Module.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : FEV-60_12V_Module.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : FEV-60_12V_Module.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
+    D37
+    D38
+    D39
 *************************************************************
 
 *************************************************************
@@ -140,9 +123,8 @@ Generating : Top Layer
 
 Used DCodes :
     D10
-    D37
-    D38
-    D39
+    D12
+    D20
     D40
     D41
     D42
@@ -168,5 +150,35 @@ Used DCodes :
     D62
     D63
     D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : FEV-60_12V_Module.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : FEV-60_12V_Module.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
 *************************************************************
 
