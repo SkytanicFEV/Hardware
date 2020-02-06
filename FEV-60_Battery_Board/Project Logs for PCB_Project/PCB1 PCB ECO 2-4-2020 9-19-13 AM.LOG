@@ -1,0 +1,234 @@
+Added Component: Designator=BMS1(BMS)
+Added Component: Designator=BMS2(BMS)
+Added Component: Designator=BMS3(BMS)
+Added Component: Designator=BMS4(BMS)
+Added Component: Designator=BMS5(BMS)
+Added Component: Designator=GND(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JST1(JST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S7B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S7B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/2768211/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JST2(JST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S7B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S7B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/2768211/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JST3(JST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S7B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S7B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/2768211/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JST4(JST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S7B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S7B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/2768211/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JST5(JST)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S7B-XH-A_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S7B-XH-A%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/2768211/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P+(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(*AMASS_XT60PB-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60 YELLOW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60%20YELLOW/Pololu/view-part/423230/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(*AMASS_XT60PB-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60 YELLOW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60%20YELLOW/Pololu/view-part/423230/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(*AMASS_XT60PB-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60 YELLOW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60%20YELLOW/Pololu/view-part/423230/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(*AMASS_XT60PB-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60 YELLOW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60%20YELLOW/Pololu/view-part/423230/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(*AMASS_XT60PB-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pololu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60 YELLOW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60%20YELLOW/Pololu/view-part/423230/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBMS1_0 Pin=BMS1-0
+Added Pin To Net: NetName=NetBMS1_0 Pin=JST1-1
+Added Net: Name=NetBMS1_0
+Added Pin To Net: NetName=NetBMS1_1 Pin=BMS1-1
+Added Pin To Net: NetName=NetBMS1_1 Pin=JST1-2
+Added Net: Name=NetBMS1_1
+Added Pin To Net: NetName=NetBMS1_2 Pin=BMS1-2
+Added Pin To Net: NetName=NetBMS1_2 Pin=JST1-3
+Added Net: Name=NetBMS1_2
+Added Pin To Net: NetName=NetBMS1_3 Pin=BMS1-3
+Added Pin To Net: NetName=NetBMS1_3 Pin=JST1-4
+Added Net: Name=NetBMS1_3
+Added Pin To Net: NetName=NetBMS1_4 Pin=BMS1-4
+Added Pin To Net: NetName=NetBMS1_4 Pin=GND-1
+Added Pin To Net: NetName=NetBMS1_4 Pin=Q1-2
+Added Net: Name=NetBMS1_4
+Added Pin To Net: NetName=NetBMS1_5 Pin=BMS1-5
+Added Pin To Net: NetName=NetBMS1_5 Pin=JST1-5
+Added Net: Name=NetBMS1_5
+Added Pin To Net: NetName=NetBMS1_6 Pin=BMS1-6
+Added Pin To Net: NetName=NetBMS1_6 Pin=JST1-6
+Added Net: Name=NetBMS1_6
+Added Pin To Net: NetName=NetBMS1_7 Pin=BMS1-7
+Added Pin To Net: NetName=NetBMS1_7 Pin=BMS2-4
+Added Pin To Net: NetName=NetBMS1_7 Pin=JST1-7
+Added Pin To Net: NetName=NetBMS1_7 Pin=Q1-1
+Added Pin To Net: NetName=NetBMS1_7 Pin=Q2-2
+Added Net: Name=NetBMS1_7
+Added Pin To Net: NetName=NetBMS2_0 Pin=BMS2-0
+Added Pin To Net: NetName=NetBMS2_0 Pin=JST2-1
+Added Net: Name=NetBMS2_0
+Added Pin To Net: NetName=NetBMS2_1 Pin=BMS2-1
+Added Pin To Net: NetName=NetBMS2_1 Pin=JST2-2
+Added Net: Name=NetBMS2_1
+Added Pin To Net: NetName=NetBMS2_2 Pin=BMS2-2
+Added Pin To Net: NetName=NetBMS2_2 Pin=JST2-3
+Added Net: Name=NetBMS2_2
+Added Pin To Net: NetName=NetBMS2_3 Pin=BMS2-3
+Added Pin To Net: NetName=NetBMS2_3 Pin=JST2-4
+Added Net: Name=NetBMS2_3
+Added Pin To Net: NetName=NetBMS2_5 Pin=BMS2-5
+Added Pin To Net: NetName=NetBMS2_5 Pin=JST2-5
+Added Net: Name=NetBMS2_5
+Added Pin To Net: NetName=NetBMS2_6 Pin=BMS2-6
+Added Pin To Net: NetName=NetBMS2_6 Pin=JST2-6
+Added Net: Name=NetBMS2_6
+Added Pin To Net: NetName=NetBMS2_7 Pin=BMS2-7
+Added Pin To Net: NetName=NetBMS2_7 Pin=BMS3-4
+Added Pin To Net: NetName=NetBMS2_7 Pin=JST2-7
+Added Pin To Net: NetName=NetBMS2_7 Pin=Q2-1
+Added Pin To Net: NetName=NetBMS2_7 Pin=Q3-2
+Added Net: Name=NetBMS2_7
+Added Pin To Net: NetName=NetBMS3_0 Pin=BMS3-0
+Added Pin To Net: NetName=NetBMS3_0 Pin=JST3-1
+Added Net: Name=NetBMS3_0
+Added Pin To Net: NetName=NetBMS3_1 Pin=BMS3-1
+Added Pin To Net: NetName=NetBMS3_1 Pin=JST3-2
+Added Net: Name=NetBMS3_1
+Added Pin To Net: NetName=NetBMS3_2 Pin=BMS3-2
+Added Pin To Net: NetName=NetBMS3_2 Pin=JST3-3
+Added Net: Name=NetBMS3_2
+Added Pin To Net: NetName=NetBMS3_3 Pin=BMS3-3
+Added Pin To Net: NetName=NetBMS3_3 Pin=JST3-4
+Added Net: Name=NetBMS3_3
+Added Pin To Net: NetName=NetBMS3_5 Pin=BMS3-5
+Added Pin To Net: NetName=NetBMS3_5 Pin=JST3-5
+Added Net: Name=NetBMS3_5
+Added Pin To Net: NetName=NetBMS3_6 Pin=BMS3-6
+Added Pin To Net: NetName=NetBMS3_6 Pin=JST3-6
+Added Net: Name=NetBMS3_6
+Added Pin To Net: NetName=NetBMS3_7 Pin=BMS3-7
+Added Pin To Net: NetName=NetBMS3_7 Pin=BMS4-4
+Added Pin To Net: NetName=NetBMS3_7 Pin=JST3-7
+Added Pin To Net: NetName=NetBMS3_7 Pin=Q3-1
+Added Pin To Net: NetName=NetBMS3_7 Pin=Q4-2
+Added Net: Name=NetBMS3_7
+Added Pin To Net: NetName=NetBMS4_0 Pin=BMS4-0
+Added Pin To Net: NetName=NetBMS4_0 Pin=JST4-1
+Added Net: Name=NetBMS4_0
+Added Pin To Net: NetName=NetBMS4_1 Pin=BMS4-1
+Added Pin To Net: NetName=NetBMS4_1 Pin=JST4-2
+Added Net: Name=NetBMS4_1
+Added Pin To Net: NetName=NetBMS4_2 Pin=BMS4-2
+Added Pin To Net: NetName=NetBMS4_2 Pin=JST4-3
+Added Net: Name=NetBMS4_2
+Added Pin To Net: NetName=NetBMS4_3 Pin=BMS4-3
+Added Pin To Net: NetName=NetBMS4_3 Pin=JST4-4
+Added Net: Name=NetBMS4_3
+Added Pin To Net: NetName=NetBMS4_5 Pin=BMS4-5
+Added Pin To Net: NetName=NetBMS4_5 Pin=JST4-5
+Added Net: Name=NetBMS4_5
+Added Pin To Net: NetName=NetBMS4_6 Pin=BMS4-6
+Added Pin To Net: NetName=NetBMS4_6 Pin=JST4-6
+Added Net: Name=NetBMS4_6
+Added Pin To Net: NetName=NetBMS4_7 Pin=BMS4-7
+Added Pin To Net: NetName=NetBMS4_7 Pin=BMS5-4
+Added Pin To Net: NetName=NetBMS4_7 Pin=JST4-7
+Added Pin To Net: NetName=NetBMS4_7 Pin=Q4-1
+Added Pin To Net: NetName=NetBMS4_7 Pin=Q5-2
+Added Net: Name=NetBMS4_7
+Added Pin To Net: NetName=NetBMS5_0 Pin=BMS5-0
+Added Pin To Net: NetName=NetBMS5_0 Pin=JST5-1
+Added Net: Name=NetBMS5_0
+Added Pin To Net: NetName=NetBMS5_1 Pin=BMS5-1
+Added Pin To Net: NetName=NetBMS5_1 Pin=JST5-2
+Added Net: Name=NetBMS5_1
+Added Pin To Net: NetName=NetBMS5_2 Pin=BMS5-2
+Added Pin To Net: NetName=NetBMS5_2 Pin=JST5-3
+Added Net: Name=NetBMS5_2
+Added Pin To Net: NetName=NetBMS5_3 Pin=BMS5-3
+Added Pin To Net: NetName=NetBMS5_3 Pin=JST5-4
+Added Net: Name=NetBMS5_3
+Added Pin To Net: NetName=NetBMS5_5 Pin=BMS5-5
+Added Pin To Net: NetName=NetBMS5_5 Pin=JST5-5
+Added Net: Name=NetBMS5_5
+Added Pin To Net: NetName=NetBMS5_6 Pin=BMS5-6
+Added Pin To Net: NetName=NetBMS5_6 Pin=JST5-6
+Added Net: Name=NetBMS5_6
+Added Pin To Net: NetName=NetBMS5_7 Pin=BMS5-7
+Added Pin To Net: NetName=NetBMS5_7 Pin=JST5-7
+Added Pin To Net: NetName=NetBMS5_7 Pin=P+-1
+Added Pin To Net: NetName=NetBMS5_7 Pin=Q5-1
+Added Net: Name=NetBMS5_7
+Added Member To Class: ClassName=Sheet1 Member=Component BMS1 BMS
+Added Member To Class: ClassName=Sheet1 Member=Component BMS2 BMS
+Added Member To Class: ClassName=Sheet1 Member=Component BMS3 BMS
+Added Member To Class: ClassName=Sheet1 Member=Component BMS4 BMS
+Added Member To Class: ClassName=Sheet1 Member=Component BMS5 BMS
+Added Member To Class: ClassName=Sheet1 Member=Component GND Plug
+Added Member To Class: ClassName=Sheet1 Member=Component JST1 JST
+Added Member To Class: ClassName=Sheet1 Member=Component JST2 JST
+Added Member To Class: ClassName=Sheet1 Member=Component JST3 JST
+Added Member To Class: ClassName=Sheet1 Member=Component JST4 JST
+Added Member To Class: ClassName=Sheet1 Member=Component JST5 JST
+Added Member To Class: ClassName=Sheet1 Member=Component P+ Plug
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 XT60_YELLOW
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 XT60_YELLOW
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 XT60_YELLOW
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 XT60_YELLOW
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 XT60_YELLOW
+Added Room: Name=Sheet1
