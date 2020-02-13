@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: FEV-60_Motor_Driver.GBR   2/4/2020  2:20:30 PM
+Gerber File Extension Report For: FEV-60_Motor_Driver.GBR   2/13/2020  9:40:35 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,7 @@ Gerber File Extension Report For: FEV-60_Motor_Driver.GBR   2/4/2020  2:20:30 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
+.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
