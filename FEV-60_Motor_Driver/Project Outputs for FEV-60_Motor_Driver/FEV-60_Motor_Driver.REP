@@ -2,22 +2,50 @@
 FileName = FEV-60_Motor_Driver.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : FEV-60_Motor_Driver.GM1
+Generating : Top Overlay
+      File : FEV-60_Motor_Driver.GTO
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
     D13
-    D85
+    D14
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : FEV-60_Motor_Driver.GTP
+Generating : Bottom Solder
+      File : FEV-60_Motor_Driver.GBS
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : FEV-60_Motor_Driver.GTL
 
     Adding Layer      : Top Layer
 
@@ -25,6 +53,8 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D12
+    D13
     D15
     D16
     D17
@@ -45,6 +75,21 @@ Used DCodes :
     D32
     D33
     D34
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
 *************************************************************
 
 *************************************************************
@@ -92,60 +137,6 @@ Used DCodes :
     D65
     D66
     D67
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : FEV-60_Motor_Driver.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : FEV-60_Motor_Driver.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FEV-60_Motor_Driver.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
 *************************************************************
 
 *************************************************************
@@ -159,6 +150,7 @@ Generating : Bottom Layer
 
 Used DCodes :
     D12
+    D69
     D70
     D71
     D72
@@ -172,8 +164,28 @@ Used DCodes :
     D80
     D81
     D82
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : FEV-60_Motor_Driver.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
     D83
-    D84
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : FEV-60_Motor_Driver.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -188,8 +200,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : FEV-60_Motor_Driver.GTL
+Generating : Top Paste
+      File : FEV-60_Motor_Driver.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -197,8 +211,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D12
-    D13
     D15
     D16
     D17
@@ -219,21 +231,5 @@ Used DCodes :
     D32
     D33
     D34
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
 *************************************************************
 
