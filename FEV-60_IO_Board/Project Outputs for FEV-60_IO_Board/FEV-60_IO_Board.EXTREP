@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: FEV-60_IO_Board.GBR   1/21/2020  11:09:02 AM
+Gerber File Extension Report For: FEV-60_IO_Board.GBR   2/13/2020  9:31:29 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,7 @@ Gerber File Extension Report For: FEV-60_IO_Board.GBR   1/21/2020  11:09:02 AM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
+.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
