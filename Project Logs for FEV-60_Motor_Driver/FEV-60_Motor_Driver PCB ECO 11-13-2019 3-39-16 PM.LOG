@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=+120 Pin=C4-1
-Removed Pin From Net: NetName=GND Pin=C4-2
-Removed Member From Class: ClassName=FEV-60_Motor_Driver_Phase1 Member=C4
-Change Component Footprint: Designator=C3 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
-Change Component Footprint: Designator=C7 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
-Change Component Footprint: Designator=C8 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
-Change Component Footprint: Designator=C11 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M
-Change Component Footprint: Designator=C12 Old Footprint=TDK-C5750-2_M New Footprint=TDK-C5750-2_M

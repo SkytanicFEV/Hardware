@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FEV-60_Motor_Driver.PcbDoc   11/22/2019  2:04:03 PM
+NCDrill File Report For: FEV-60_Motor_Driver.PcbDoc   2/13/2020  12:01:16 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,14 @@ ASCII RoundHoles File : FEV-60_Motor_Driver.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      13mil (0.33mm)                                            Round             66        PTH        0.00inch (0.00mm)
-T2      28mil (0.711mm)                                           Round             25        PTH        0.00inch (0.00mm)
-T3      30mil (0.762mm)                                           Round             12        PTH        0.00inch (0.00mm)
-T4      35mil (0.889mm)                                           Round             4         PTH        0.00inch (0.00mm)
-T5      35mil (0.9mm)                                             Round             76        PTH        0.00inch (0.00mm)
-T6      63mil (1.6mm)                                             Round             12        PTH        0.00inch (0.00mm)
-T7      180mil (4.572mm)                                          Round             10        PTH        0.00inch (0.00mm)
+T1      13mil (0.33mm)                                            Round             70        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             72        PTH        0.00inch (0.00mm)
+T4      43mil (1.09mm)                                            Round             9         PTH        0.00inch (0.00mm)
+T5      63mil (1.6mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T6      128mil (3.26mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T7      170mil (4.318mm)                                          Round             5         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              205
+Totals                                                                              190
 
 Total Processing Time (hh:mm:ss) : 00:00:00
