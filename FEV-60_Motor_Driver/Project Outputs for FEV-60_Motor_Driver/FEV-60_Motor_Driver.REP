@@ -51,6 +51,60 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : FEV-60_Motor_Driver.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FEV-60_Motor_Driver.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : FEV-60_Motor_Driver.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : FEV-60_Motor_Driver.GTS
 
@@ -62,7 +116,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D19
     D38
     D39
     D40
@@ -100,62 +153,7 @@ Used DCodes :
     D72
     D73
     D74
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : FEV-60_Motor_Driver.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : FEV-60_Motor_Driver.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FEV-60_Motor_Driver.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
+    D75
 *************************************************************
 
 *************************************************************
@@ -170,8 +168,7 @@ Generating : Bottom Layer
 Used DCodes :
     D12
     D13
-    D75
-    D79
+    D76
     D80
     D81
     D82
@@ -186,16 +183,19 @@ Used DCodes :
     D91
     D92
     D93
+    D94
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : FEV-60_Motor_Driver.GKO
+Generating : Mechanical 1
+      File : FEV-60_Motor_Driver.GM1
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
+    D12
+    D95
 *************************************************************
 
 *************************************************************
@@ -233,7 +233,6 @@ Used DCodes :
     D35
     D36
     D37
-    D75
     D76
     D77
     D78
@@ -252,5 +251,6 @@ Used DCodes :
     D91
     D92
     D93
+    D94
 *************************************************************
 
