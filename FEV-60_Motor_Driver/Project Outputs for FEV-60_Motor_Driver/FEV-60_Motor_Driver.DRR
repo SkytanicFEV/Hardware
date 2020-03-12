@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: FEV-60_Motor_Driver.PcbDoc   3/10/2020  7:24:26 PM
+NCDrill File Report For: FEV-60_Motor_Driver.PcbDoc   3/12/2020  10:17:17 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : FEV-60_Motor_Driver.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      13mil (0.33mm)                                            Round             135       PTH        0.00inch (0.00mm)
+T1      13mil (0.33mm)                                            Round             137       PTH        0.00inch (0.00mm)
 T2      28mil (0.711mm)                                           Round             22        PTH        0.00inch (0.00mm)
 T3      35mil (0.9mm)                                             Round             92        PTH        0.00inch (0.00mm)
 T4      38mil (0.965mm)                                           Round             4         PTH        0.00inch (0.00mm)
@@ -16,6 +16,6 @@ T6      63mil (1.6mm)                                             Round         
 T7      128mil (3.26mm)                                           Round             4         PTH        0.00inch (0.00mm)
 T8      170mil (4.318mm)                                          Round             10        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              297
+Totals                                                                              299
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
