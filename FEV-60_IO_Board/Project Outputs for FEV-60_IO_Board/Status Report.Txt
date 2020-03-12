@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEV-60_IO_Board.PrjPcb]
+   Generated File[FEV-60_IO_Board.TXT]
+   Generated File[FEV-60_IO_Board.LDP]
+   Generated File[FEV-60_IO_Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:31:57 AM On 2/13/2020

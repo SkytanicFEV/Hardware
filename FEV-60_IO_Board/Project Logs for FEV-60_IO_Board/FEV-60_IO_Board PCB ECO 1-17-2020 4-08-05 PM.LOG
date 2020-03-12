@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PF4 Pin=J1-7
+Removed Pin From Net: NetName=PA3 Pin=J1-19
+Added Pin To Net: NetName=PA3 Pin=J1-7
+Added Pin To Net: NetName=PF4 Pin=J1-19
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component C19 Cap Semi

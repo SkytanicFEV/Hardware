@@ -1,0 +1,19 @@
+Added Component: Designator=CN9(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA3 Pin=CN9-1
+Added Pin To Net: NetName=PF5 Pin=CN9-2
+Added Pin To Net: NetName=PA5 Pin=P1-1
+Added Pin To Net: NetName=PA6 Pin=P1-2
+Added Pin To Net: NetName=PA7 Pin=P1-3
+Added Pin To Net: NetName=PC4 Pin=P1-4
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component CN9 Header 2
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component P1 Header 4
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component U1 MCU_LQFP64
