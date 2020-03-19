@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=Vout Pin=C8-2
+Removed Member From Class: ClassName=FEV-60_12V_Module Member=C8

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
-Date     : 2/4/2020
-Time     : 12:31:37 PM
+PCB File : D:\altium\SeniorDesign\Hardware\FEV-60_12V_Module\FEV-60_12V_Module.PcbDoc
+Date     : 3/19/2020
+Time     : 3:41:25 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -28,8 +28,8 @@ Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=8mil) (Max=160mil) (All)
-   Violation between Hole Size Constraint: (170mil > 160mil) Via (3000mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
-   Violation between Hole Size Constraint: (170mil > 160mil) Via (3340mil,1600mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
+   Violation between Hole Size Constraint: (170mil > 160mil) Via (2715mil,1600mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
+   Violation between Hole Size Constraint: (170mil > 160mil) Via (3105mil,3290mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
    Violation between Hole Size Constraint: (170mil > 160mil) Via (4255mil,1600mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
    Violation between Hole Size Constraint: (170mil > 160mil) Via (4710mil,1650mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
    Violation between Hole Size Constraint: (170mil > 160mil) Via (5230mil,1650mil) from Top Layer to Bottom Layer Actual Hole Size = 170mil
@@ -46,19 +46,19 @@ Processing Rule : Silk To Solder Mask (Clearance=3.5mil) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=3.5mil) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (Collision < 3.5mil) Between Text "P1" (3170mil,2680mil) on Top Overlay And Track (2955mil,2700mil)(3170mil,2700mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 3.5mil) Between Text "P1" (3170mil,2680mil) on Top Overlay And Track (3170mil,2700mil)(3170mil,2790mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :2
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (3605mil,2190mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3685mil,2190mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (3795mil,3470mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (3815mil,3470mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (3825mil,1500mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (3920mil,3470mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (4710mil,1650mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (5230mil,1650mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (5490mil,2915mil) from Top Layer to Bottom Layer 
    Violation between Net Antennae: Via (5490mil,3050mil) from Top Layer to Bottom Layer 
-Rule Violations :9
+Rule Violations :7
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
