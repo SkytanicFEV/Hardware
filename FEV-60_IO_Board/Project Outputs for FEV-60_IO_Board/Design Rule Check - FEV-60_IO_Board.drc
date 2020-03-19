@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\ryanz\Senior Design\Hardware\FEV-60_IO_Board\FEV-60_IO_Board.PcbDoc
-Date     : 1/21/2020
-Time     : 9:21:33 AM
+PCB File : D:\altium\SeniorDesign\Hardware\FEV-60_IO_Board\FEV-60_IO_Board.PcbDoc
+Date     : 3/19/2020
+Time     : 12:36:57 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -37,15 +37,16 @@ Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (3595mil,3145mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (4015mil,2120mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (4480mil,2105mil) from Top Layer to Bottom Layer 
-Rule Violations :3
+   Violation between Net Antennae: Via (3690mil,3145mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4115mil,2120mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (4325mil,3530mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (6010mil,3535mil) from Top Layer to Bottom Layer 
+Rule Violations :4
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 4
 Waived Violations : 0
 Time Elapsed        : 00:00:01
