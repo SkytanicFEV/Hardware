@@ -1,0 +1,108 @@
+Added Component: Designator=D2(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(SP1103C-01UTG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_Num"; Value = "SP1103C-01UTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "F10154CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/2-DFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase Link"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SP1103C-01UTG/F10154CT-ND/7402659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R26(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=USART_RX Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=I2C1_SDA Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=PF5 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=MOTOR_EN Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=USART_TX Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=PA4 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=I2C1_SCL Pin=D8-2
+Added Pin To Net: NetName=PA4 Pin=R25-1
+Added Pin To Net: NetName=VDD Pin=R25-2
+Added Pin To Net: NetName=PF5 Pin=R26-1
+Added Pin To Net: NetName=VDD Pin=R26-2
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D2 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D3 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D4 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D5 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D6 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D7 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component D8 SP1103C-01UTG
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component R25 Res3
+Added Member To Class: ClassName=FEV-60_IO_Board Member=Component R26 Res3
