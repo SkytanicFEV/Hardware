@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\altium\SeniorDesign\Hardware\FEV-60_IO_Board\FEV-60_IO_Board.PcbDoc
 Date     : 3/19/2020
-Time     : 12:36:57 PM
+Time     : 4:43:20 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -28,7 +28,8 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
-Rule Violations :0
+   Violation between Minimum Solder Mask Sliver Constraint: (4.283mil < 5mil) Between Pad R25-1(4607.528mil,2222mil) on Top Layer And Via (4608.5mil,2179.5mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [4.283mil]
+Rule Violations :1
 
 Processing Rule : Silk To Solder Mask (Clearance=3mil) (IsPad),(All)
 Rule Violations :0
@@ -47,6 +48,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 5
 Waived Violations : 0
 Time Elapsed        : 00:00:01
